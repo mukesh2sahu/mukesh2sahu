@@ -1,6 +1,4 @@
-<div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbm95bGd5Ymh6cGh6bnh6bnh6bnh6bnh6bnh6bnh6bnh6bnh6bnh6L2dpZg/qgQUQBQAQPQqQ/giphy.gif" width="100%" />
-</div>
+
 
 <h1 align="center">Hi there, I'm Mukesh Sahu! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"></h1>
 
@@ -44,19 +42,7 @@
 
 <hr />
 
-## 📊 GitHub Analytics
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mukesh2sahu&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" height="180px" alt="Mukesh's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mukesh2sahu&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" height="180px" alt="Mukesh's Streak" />
-</div>
-
-<div align="center">
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mukesh2sahu&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Top Languages" />
-</div>
-
-<hr />
 
 ## ⚡ Recent Activity
 
