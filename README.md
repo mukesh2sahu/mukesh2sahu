@@ -12,7 +12,7 @@
 </p>
 
 <div align="center">
-  <a href="https://linkedin.com/in/mukesh2sahu">
+  <a href="https://www.linkedin.com/in/mukesh2sahu/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:contact@mukeshsahu.com">
@@ -43,6 +43,13 @@
 
 ### 🔧 DevOps & Tools
 <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,aws,linux,npm&perline=7" />
+
+
+### 📊 Visualization Tools
+<div align="center">
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+</div>
 
 </div>
 
