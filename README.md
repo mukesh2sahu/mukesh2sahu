@@ -8,7 +8,7 @@
 
 <p align="center">
   <b>Passionate about creating beautiful, responsive, and user-friendly digital experiences.</b><br>
-  I specialize in building web apps using MERN Stack, mobile apps with React Native, modern web applications, and custom WordPress solutions.
+  I specialize in building web apps using MERN Stack, PHP, Wordpress,Woocommerce, mobile apps with React Native and modern web applications.
 </p>
 
 <div align="center">
